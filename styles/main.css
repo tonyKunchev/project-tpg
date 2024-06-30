@@ -1,0 +1,22 @@
+body, html {
+  height: 100vh;
+  filter: invert(.85);
+  padding: 0;
+}
+
+.site-bg {
+  background-image: url("../assets/bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 90%;
+  margin: auto;
+}
+
+.menu-item {
+  position: relative;
+  width: 17%;
+  top: 17.5%;
+  left: 5%;
+}
